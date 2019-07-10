@@ -1,0 +1,17 @@
+ h1{
+           color: black;
+           text-align: center;
+           font-style: italic;
+         }
+       body{
+             background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/World_map_blank_without_borders.svg/1600px-World_map_blank_without_borders.svg.png');
+             height: 100%;
+             background-position: center;
+             background-repeat: no-repeat;
+             background-size: cover;
+             background-attachment: fixed;
+             text-align: center;
+             text-size: 1000%;
+             text- color: black;
+             font-weight: bold;
+       }
